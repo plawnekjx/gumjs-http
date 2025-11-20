@@ -1,14 +1,14 @@
 {
-  "name": "@frida/http",
-  "description": "Node.js's http module for Frida",
+  "name": "@plawnekjx/http",
+  "description": "Node.js's http module for Plawnekjx",
   "version": "4.0.2",
   "publishConfig": {
     "access": "public"
   },
   "keywords": [
-    "frida"
+    "plawnekjx"
   ],
-  "homepage": "https://frida.re",
+  "homepage": "https://plawnekjx.re",
   "main": "index.js",
   "files": [
     "/index.js",
@@ -18,10 +18,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frida/gumjs-http.git"
+    "url": "https://github.com/plawnekjx/gumjs-http.git"
   },
   "bugs": {
-    "url": "https://github.com/frida/gumjs-http/issues"
+    "url": "https://github.com/plawnekjx/gumjs-http/issues"
   },
   "dependencies": {
     "http-parser-js": "^0.5.3"
